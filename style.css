@@ -1,0 +1,20 @@
+body{
+    background: url("https://wallpapercave.com/wp/TlLUbmz.jpg");
+    color: black;
+    font-family: 'Roboto Mono', monospace;
+}
+
+h3{
+    width: 600px;
+}
+
+span{
+    font-size: 20px;
+}
+
+#camera{
+    border: 10px solid black;
+    border-radius: 15px;
+    width: 400px;
+    height: 370px;
+}
